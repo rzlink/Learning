@@ -1,0 +1,25 @@
+* Plan for Feb 27 - Mar 3
+** [TODO]: appointment for h-pylori lab test
+** [TODO]: Common lisp: A Gentle Introduction to Symbolic Computation
+ - All Questions for
+   Character 8. Recursion
+   Character 9. Input/Output
+   Character 10. Assignment
+   
+
+preface:
+
+The word "preface" refers to an introductory statement or essay that
+precedes the main text of a book or other written work. A preface
+typically provides background information about the author, the
+purpose of the work, or the context in which it was written. It may
+also include acknowledgments or a dedication.
+
+
+Conversations:
+
+1. Before we dive into the main topic, let me offer a brief preface to
+provide some background information
+
+2. I'd like to preface my comments by saying that I appreciate your
+perspective, but I have some concerns about the proposal.
